@@ -1,6 +1,6 @@
 Flask
-flask-socketio
-qrcode[pil]
+Flask-SocketIO
+qrcode
 Pillow
 python-socketio
-eventlet
+python-engineio
