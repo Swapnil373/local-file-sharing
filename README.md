@@ -63,6 +63,19 @@ A simple, local file sharing server built with **Flask** and **Socket.IO**. Shar
 
 - Scan the QR code on the homepage 📱 to quickly connect to the server from your mobile device.
 
+## Releases
+- [Version 1.0.0](https://github.com/yourusername/yourproject/releases/tag/v1.0.0) - First stable release
+
+## Installation
+1. Clone the repo: `git clone https://github.com/yourusername/yourproject.git`
+2. Install dependencies: `pip install -r requirements.txt`
+
+## Running Locally
+To start the server, run:
+```bash
+python app.py
+```
+
 ## Security 🔒
 
 This server is designed for use in a trusted, private network and does not include advanced security measures. For safety, only use it within a secure, private environment.
@@ -73,4 +86,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements 🙏
 
-- **Chat GPT-4o & Claude 3.5 sonnet:** 
+- **Chat GPT-4o & Claude 3.5 sonnet:**
