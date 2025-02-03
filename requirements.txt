@@ -1,6 +1,5 @@
 Flask
 Flask-SocketIO
-qrcode
+Qrcode
 Pillow
-python-socketio
-python-engineio
+Eventlet
